@@ -69,11 +69,11 @@ class Layer {
     }
 }
 
-const layer1=new Layer(bglayer1,1);
-const layer2=new Layer(bglayer2,2);
-const layer3=new Layer(bglayer3,3);
-const layer4=new Layer(bglayer4,4);
-const layer5=new Layer(bglayer5,5);
+const layer1=new Layer(bglayer1,0.5);
+const layer2=new Layer(bglayer2,1);
+const layer3=new Layer(bglayer3,1.5);
+const layer4=new Layer(bglayer4,2);
+const layer5=new Layer(bglayer5,2.5);
 
 const layers=[layer1,layer2,layer3,layer4,layer5];
 
